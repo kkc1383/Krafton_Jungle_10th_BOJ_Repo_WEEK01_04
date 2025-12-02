@@ -58,7 +58,7 @@
 ## 📁 저장소 구조
 
 ```
-Baekjoon_repo/
+Krafton_Jungle_10th_BOJ_Repo_WEEK01_04/
 ├── Bronze/
 │   ├── Bronze 1/
 │   ├── Bronze 2/
@@ -90,20 +90,7 @@ prob_[문제번호]_[티어약자][난이도].py
 **예시:**
 - `prob_2166_g5.py` - 2166번 문제, Gold 5
 - `prob_1927_s2.py` - 1927번 문제, Silver 2
-
-## 🎯 주요 문제
-
-### Gold
-- **[2166](Gold/Gold%205/prob_2166_g5.py)** - 다각형의 넓이 (신발끈 공식)
-- **[9663](Gold/Gold%204/prob_9663_g4.py)** - N-Queen (백트래킹)
-- **[1655](Gold/Gold%202/prob_1655_g2.py)** - 가운데를 말해요 (우선순위 큐)
-- **[2110](Gold/Gold%204/prob_2110_g4.py)** - 공유기 설치 (이분 탐색)
-- **[1914](Gold/Gold%205/prob_1914_g5.py)** - 하노이 탑 (재귀)
-
-### Platinum
-- **[6549](Platinum/Platinum%205/prob_6549_p5.py)** - 히스토그램에서 가장 큰 직사각형 (스택)
-- **[2261](Platinum/Platinum%202/prob_2261_p2.py)** - 가장 가까운 두 점 (분할 정복)
-
+- 
 ## 🚀 사용 언어
 
 - Python 3
